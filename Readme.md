@@ -17,3 +17,5 @@ Adicionando maus uma modificação no Readme.md
 - ***git push -u origin main*** - Sobe para o Github o repositório.
 
 - ***git checkout -b*** - Cria uma nova branch
+
+Adicionado uma nova branch no projeto
