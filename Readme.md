@@ -15,3 +15,5 @@ Adicionando maus uma modificação no Readme.md
 - ***git remote add origin*** - Cria o link do repositório do Git com o Github.
 
 - ***git push -u origin main*** - Sobe para o Github o repositório.
+
+- ***git checkout -b*** - Cria uma nova branch
