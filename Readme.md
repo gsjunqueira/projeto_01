@@ -18,4 +18,6 @@ Adicionando maus uma modificação no Readme.md
 
 - ***git checkout -b*** - Cria uma nova branch
 
-Adicionado uma nova branch no projeto
+  - Adicionado uma nova branch no projeto
+  - Adicionado uma nova funcionalidade no projeto
+
